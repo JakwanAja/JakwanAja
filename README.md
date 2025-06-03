@@ -39,28 +39,8 @@
 ### 🚀 Tech Stack and Tools:
 
 <div align="center" width="82%">
-    <!-- HTML -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
-    <!-- CSS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3"/></a>
-    <!-- Python-->
-    <a href=""target="_blank"><img src="https://img.shields.io/badge/Python-%FFD43B.svg?style=flat&logo=python&logoColor=blue" title ="Python"/></a>
-    <!-- Kotlin -->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-%B125EA.svg?style=flat&logo=kotlin&logoColor=white
-    " title="Kotlin"/></a>
-    <!-- Laravel -->
-    <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-%FF2D20.svg?style=flat&logo=laravel&logoColor=white" title="Laravel 10"/></a>
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
-    <!-- Android Studio -->
-    <a href="https://developer.android.com/studio?hl=id" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-%3DDC84.svg?style=flat&logo=android-studio&logoColor=white
-    " title="Android Studio"/></a>
-    <!-- VS code-->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-%0078D4.svg?style=flat&logo=visual%20studio%20code&logoColor=white
-    " title="Vs code"/></a>
-    <!-- ChatGpt -->
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white
-    " title="Chat GPT"/></a>
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+    "/>
 
 </div>
 <br/>
