@@ -1,7 +1,7 @@
 
 <picture>
 
-<img alt="Muhamad Dzakwan Alfaris | Student at PNM · Mountain climber" src="./img/github-header-image (1).png" width="100%" />
+<img alt="Muhamad Dzakwan Alfaris | Student at PNM · Mountain climber" src="./img/github-header-image (2).png" width="100%" />
 
 </picture>
 
@@ -26,7 +26,7 @@
 </header>
 
 <details>
-  <summary><h3>📊 My Github Details</h3></summary>
+  <summary><h3>📊 My Github Details🔽</h3></summary>
 
 ### 🙋‍♂️ About Me
 
@@ -72,6 +72,16 @@
 </a>
 </div>
 
+### 🐍 Eating away my contributions😭... Help!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JakwanAja/JakwanAja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JakwanAja/JakwanAja/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JakwanAja/JakwanAja/output/github-contribution-grid-snake.svg">
+</picture>
+
 </details>
+
+
 
 
