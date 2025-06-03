@@ -58,9 +58,11 @@
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff" />
 
+</div>
 <br/>
 
 ### 📊 My Github Stats:
+
 <div align="center">
 <a href="https://github.com/JakwanAja">
     <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakwanAja&langs_count=10&count_private=false&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e&title_color=63FCD8" />
