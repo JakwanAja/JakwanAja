@@ -59,7 +59,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-%0078D4.svg?style=flat&logo=visual%20studio%20code&logoColor=white
     " title="Vs code"/></a>
     <!-- ChatGpt -->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-%74aa9c.svg?style=flat&logo=openai&logoColor=white
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white
     " title="Chat GPT"/></a>
 
 </div>
