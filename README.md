@@ -36,8 +36,6 @@
 - 💞️ I’m looking to collaborate on to improve my skills
 <br/>
 
-</details>
-
 ### 🚀 Tech Stack and Tools:
 
 <div align="center" width="82%">
@@ -55,7 +53,7 @@
     <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
     <!-- Android Studio -->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white
+    <a href="https://developer.android.com/studio?hl=id" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white
     " title="Android Studio"/></a>
     <!-- VS code-->
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white
@@ -80,5 +78,6 @@
 </a>
 </div>
 
+</details>
 
 
