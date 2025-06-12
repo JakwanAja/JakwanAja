@@ -1,7 +1,7 @@
 
 <picture>
 
-<img alt="Muhamad Dzakwan Alfaris | Student at PNM · Mountain climber" src="./img/github-header-image (2).png" width="100%" />
+<img alt="Muhamad Dzakwan Alfaris | Student at PNM · Mountain climber" src="./img/profilelogo.jpg" width="100%" />
 
 </picture>
 
@@ -26,7 +26,7 @@
 </header>
 
 <details>
-  <summary><h3>📊 My Github Details🔽</h3></summary>
+  <summary><h3>📊 My Github Details👇</h3></summary>
 
 ### 🙋‍♂️ About Me
 
