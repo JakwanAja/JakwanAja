@@ -1,7 +1,7 @@
 
 <picture>
 
-<img alt="Muhamad Dzakwan Alfaris | Student at PNM · Mountain climber" src="./img/profilelogo.jpg" width="100%" />
+<img alt="Muhamad Dzakwan Alfaris | Student at PNM" src="./img/profilelogo.jpg" width="100%" />
 
 </picture>
 
@@ -27,11 +27,9 @@
 
 
 ### 🙋‍♂️ About Me
-
-- 👀 I’m interested in web developer as a fullstack developer
-- 🏫 I’m currently learning at Politeknik Negeri Madiun, TRPL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💞️ I’m looking to collaborate on to improve my skills
-<br/>
+- 🌱 Currently learning **Fullstack Web Development**
+- 📍 Studying at **Politeknik Negeri Madiun**, TRPL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤝 Always open to **collaboration** to improve my skills<br/>
 
 ### 🚀 Tech Stack and Tools:
 
@@ -60,14 +58,16 @@
 
 ### 📊 My Github Stats:
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/JakwanAja">
     <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakwanAja&langs_count=10&count_private=false&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e&title_color=63FCD8" />
 </a>
 <a href="https://github.com/JakwanAja">
     <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=JakwanAja&show_icons=true&count_private=true&title_color=63FCD8&text_color=ffffff&icon_color=63FCD8&hide_border=true&bg_color=0e0e0e" />
 </a>
-</div>
+</div>-->
+[![JakwanAja github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JakwanAja&bg_color=0e0e0e&color=63FCD8&line=63FCD8&point=63FC0F&area_color=63FCD8&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🐍 Eating away my contributions😭... Help!
 
