@@ -25,14 +25,11 @@
   </div>
 </header>
 
-<details>
-  <summary><h3>📊 My Github Details👇</h3></summary>
 
 ### 🙋‍♂️ About Me
 
 - 👀 I’m interested in web developer as a fullstack developer
 - 🏫 I’m currently learning at Politeknik Negeri Madiun, TRPL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 you can contact via Instagram <a href="instagram.com/jakwan.jpg">jakwan.jpg</a>
 - 💞️ I’m looking to collaborate on to improve my skills
 <br/>
 
@@ -80,7 +77,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JakwanAja/JakwanAja/output/github-contribution-grid-snake.svg">
 </picture>
 
-</details>
+
 
 
 
