@@ -27,6 +27,34 @@
 
 
 ### 🙋‍♂️ About Me
+
+```js
+class AboutMe {
+  constructor(icon, text) {
+    this.icon = icon;
+    this.text = text;
+  }
+}
+
+console.log("Hi, I'm Tirta Afandi (a.k.a. Kikuk) 👋");
+console.log("I'm a student and web/software developer.");
+
+const aboutMeList = [
+  new AboutMe("🌱", "Learning advanced backend (NestJS, Next.js, IoT)"),
+  new AboutMe("🎓", "Computer Engineering Student & IT Programmer"),
+  new AboutMe("🧠", "Love clean code & Clear Flow Programming Style"),
+  new AboutMe("🛠️", "Using JavaScript, PHP, C++, and more"),
+  new AboutMe("🎤", "Also into public speaking and mentoring coding"),
+  new AboutMe("📍", "Based in East Java, Indonesia 🇮🇩"),
+  new AboutMe("⚡", "Fun fact: I enjoy breaking things just to fix them better"),
+];
+
+aboutMeList.forEach(item => {
+  console.log(`${item.icon} ${item.text}`);
+});
+
+```
+###
 - 🌱 Currently learning **Fullstack Web Development**
 - 📍 Studying at **Politeknik Negeri Madiun**, TRPL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤝 Always open to **collaboration** to improve my skills<br/>
